@@ -1,0 +1,47 @@
+/* Main stylesheet*/
+
+#page {
+
+
+	width: 100%;
+
+
+}
+
+.border {
+
+	
+    outline: solid 1px black;
+
+}
+
+.main {
+
+    margin: 0 12%;
+}
+
+body {
+
+    position: relative;
+    margin:0 auto;
+
+}
+
+.logo {
+
+    height: 88px;
+    width: 306px;
+    margin: 0 auto;
+
+    float: left;
+}
+
+.block {
+
+    display: block;
+}
+
+.clear {
+
+    clear: both;
+}
