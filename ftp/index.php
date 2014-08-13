@@ -5,7 +5,7 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-	<title>A rua digital | Seu caminho passa pela rede</title>
+	<title>A rua digital | Sua Presença Online</title>
 	<meta name"robots" content="noindex, nofollow">
 
 	<link rel="stylesheet" href="css/style.css">
@@ -20,21 +20,47 @@
 <body>
 	<div id="page">
 	
-		<div class="main">
+		<div class="batch1 border">
 			
-			<div class="header border">
-				<img src="images/logov2.fw.png" class="logo border block"/>
-			</div>
+			<div class="top-header">
+				
+				<div class="wrapper">
+					
+
+					<img class="logo" src="images/logo.fw.png"></img>
+					
+					<div class="menu">
+
+						<ul class="nav">
+							<li class"nav-item">
+								<a href="#">Obras digitais</a>
+							</li>
+							<li class="nav-item">
+								<a href="#">Otimizaçao de presença</a>
+							</li>
+							<li class="nav-item">
+								<a href="#">Quem somos?</a>
+							</li>
+							<li class="nav-item">
+								<a href="#"><button>Otimizaçao de presença</button></a>
+							</li>
+
+						</ul>
+					</div>
+				
+				</div>
 			
-			<div class="clear"></div>
-
-			<div class="content border">
-				content
 			</div>
 
-			<div class="footer border">
-				footer
-			</div>
+		</div>
+		
+		<div class="batch2 border">
+				
+		</div>
+
+		<div class="batch3 border">
+				
+		</div>
 
 		</div>
 
