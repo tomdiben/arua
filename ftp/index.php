@@ -27,8 +27,10 @@
 				<div class="wrapper">
 					
 
-					<img class="logo" src="images/logo.fw.png"></img>
-					
+					<a href="#">
+						<img class="logo" src="images/logo.fw.png"></img>
+					</a>
+
 					<div class="menu">
 
 						<ul class="nav">
@@ -41,17 +43,19 @@
 							<li class="nav-item">
 								<a href="#">Quem somos?</a>
 							</li>
-							<li class="nav-item">
-								<a href="#"><button>Otimizaçao de presença</button></a>
+							<li class="nav-item menu-button">
+								<a class="contato-button" href="#">Contato</a>
 							</li>
-
 						</ul>
+						
+
+
 					</div>
 				
 				</div>
 			
 			</div>
-
+			
 		</div>
 		
 		<div class="batch2 border">

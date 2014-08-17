@@ -1,20 +1,33 @@
 /* Main stylesheet*/
+@font-face {
+    font-family: 'Roboto-conreg';
+    src: url('../fonts/RobotoCondensed-Regular.ttf'); 
+}
+
+html, body {
+    height:100%;
+}
+
+a{
+    text-decoration: none;
+}
+
 body {
 
+    font-family: 'Roboto-conreg';
     position: relative;
     margin:0 auto;
 
 }
 
-.top-header{
-        padding-top:1%;
-}
 
 ul{
 
     list-style-image: none;
     list-style-type: none;
     list-style-position: outside;
+
+
 }
 
 ul li{
@@ -22,35 +35,18 @@ ul li{
     float:left;
 
 }
-.wrapper{
-
-}
-.menu {
-        float:left;
-        margin-left:15%;
-}
-
-.nav {
-
-
-}
-.nav-item{
-
-    margin-left: 15px;
-    margin-right: 15px;
-}
 
 #page {
 
 
 	width: 100%;
-
+    height: 100%;
 
 }
 
 .logo {
 
-    margin-left: 17%;
+    margin-left: 15%;
     width: 300px;
     height: 49px;
     display:block;
@@ -60,7 +56,11 @@ ul li{
 
 .batch1 {
 
-    height:850px;
+    background-image: url('../images/background.fw.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
+    height:100%;
 }
 
 
@@ -77,3 +77,64 @@ ul li{
 
     clear: both;
 }
+
+.top-header{
+        padding-top:1%;
+}
+
+
+.wrapper{
+
+}
+.menu {
+        float:right;
+        margin-right:17%;
+
+}
+
+.nav {
+
+
+
+}
+.nav-item{
+
+    margin-left: 15px;
+    margin-right: 15px;
+
+}
+
+.menu-button{
+
+}
+
+.contato-button{
+
+    
+    background:#FFA217;
+    cursor: pointer;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    color: #ffffff;
+    width: 95px;
+    text-transform: uppercase;
+
+    border: solid 3px #ffffff;
+    padding: 10px 15px;
+
+    -webkit-transition: all 0.3s;
+    -moz-transition: all 0.3s;
+    transition: all 0.3s;
+}
+
+.contato-button:hover,
+.contato-button:active {
+
+  border: none;
+  color: #FFA217;
+  background: #FFFFFF;
+  border: solid 3px #FFA217;
+  border-radius: 5px;
+
+}
+
