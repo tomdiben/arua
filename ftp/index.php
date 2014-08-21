@@ -33,6 +33,9 @@
 							<a class="nav-link" href="#">.A Rua Digital</a>
 						</li>
 						<li class="nav-item">
+							<a class="nav-link" href="#">.formula</a>
+						</li>
+						<li class="nav-item">
 							<a class="nav-link" href="#">.Produtos</a>
 						</li>
 						<li class="nav-item">
