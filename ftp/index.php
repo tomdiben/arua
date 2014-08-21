@@ -20,12 +20,12 @@
 <body>
 	<div id="page">
 	
-		<div class="batch1 border">
+		<div class="batch1">
 			
 			<div class="top-header">
 
 				<a class="a-logo" href="#">
-					<img class="logo" src="images/logo.fw.png"></img>
+					<img class="logo" src="images/logo2.fw.png"></img>
 				</a>
 				<div class="menu">
 					<ul class="nav">
@@ -65,8 +65,11 @@
 
 		</div>
 		
-		<div class="batch2 border">
+		<div class="batch2">
 			
+
+
+
 		</div>
 
 		<div class="batch3 border">
